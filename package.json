@@ -19,7 +19,8 @@
 		"react-promise-tracker": "^2.1.0",
 		"react-router-dom": "^5.2.0",
 		"react-scripts": "3.4.2",
-		"react-toastify": "^6.0.8"
+		"react-toastify": "^6.0.8",
+		"serve": "^11.3.2"
 	},
 	"scripts": {
 		"start": "serve -s build1",
